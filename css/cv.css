@@ -66,3 +66,24 @@ ul {
 	display: flex;
 	justify-content: space-between;
 }
+
+
+ul {
+	list-style:none;
+}
+
+li {
+	margin-bottom: .5em;
+}
+
+a {
+	color:white;
+}
+
+hr {
+	margin: 1em;
+}
+
+.infoBoxIcon {
+	margin-right: 1em;
+}
